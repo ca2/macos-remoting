@@ -7,4 +7,7 @@
    <FileRef
       location = "container:../source/remoting/notify_node/__implement/_remoting_notify_node.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "container:../source/remoting/remoting_node_desktop/__implement/_remoting_node_desktop.xcodeproj">
+   </FileRef>
 </Workspace>
