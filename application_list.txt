@@ -10,5 +10,6 @@ little_remoting_backup_2026-04-30/client
 little_remoting_backup_2026-04-30/notify_node
 little_remoting_backup_2026-04-30/remote_connect
 remoting/client
+remoting/node_desktop
 remoting/notify_node
 remoting/remote_connect
